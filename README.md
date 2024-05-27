@@ -2,7 +2,8 @@
 
 <img src="https://imgur.com/nwJ0HAB.png" alt="Profile banner 2" width="95%">
 
-<img src="https://drive.google.com/file/d/1IvpySedNtjPOmLznqxwJ2fEQvZKhAKPz/view?usp=drive_link.png" alt="Profile banner 3" width="95%">
+<img src="https://imgur.com/yyFRwPZ.gif" alt="Profile banner 3" width="95%">
+
 
 
 
