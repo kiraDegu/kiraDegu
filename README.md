@@ -1,8 +1,8 @@
 <img src="https://i.imgur.com/IcqD4nU.png" alt="Profile banner" width="95%">
 
-<img src="https://imgur.com/a/Hlw1CgH" alt="Profile banner 2" width="95%">
+<img src="https://imgur.com/nwJ0HAB.png" alt="Profile banner 2" width="95%">
 
-
+https://imgur.com/nwJ0HAB
 
 
 ## Hi, I'm Semen Koksharov! 👋
