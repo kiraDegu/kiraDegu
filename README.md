@@ -12,12 +12,16 @@ Junior Backend Developer passionate about technology and music. Currently workin
 ## 🛠️ Technical Skills
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+<img src="https://img.shields.io/badge/-MySQL-%230078D6?style=for-the-badge&logo=mysql&logoColor=white">
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%2398357E.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-%2300f.svg?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Github](http://img.shields.io/badge/-Github-000000.svg?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/VS%20Code-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+![IntellijIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
@@ -29,14 +33,11 @@ Junior Backend Developer passionate about technology and music. Currently workin
 <h3 align="left">🛠️ Tech Skills and Tools:</h3>
   
 ![Java](https://img.shields.io/badge/-Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-<img src="https://img.shields.io/badge/-MySQL-%230078D6?style=for-the-badge&logo=mysql&logoColor=white">
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%2398357E.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Github](http://img.shields.io/badge/-Github-000000.svg?style=for-the-badge&logo=github&logoColor=white)
-<img src="https://img.shields.io/badge/VS%20Code-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
-![IntellijIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
 
 ---
 
