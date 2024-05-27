@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/IcqD4nU.png" alt="Profile banner" width="95%">
 
-<img src="https://www.flickr.com/photos/200822592@N08/53750471555/in/dateposted-public/" alt="Profile banner 2" width="95%">
+<img src="https://imgur.com/a/Hlw1CgH" alt="Profile banner 2" width="95%">
 
 
 
