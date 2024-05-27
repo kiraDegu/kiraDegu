@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/IcqD4nU.png" alt="Profile banner" width="95%">
-<img src="https://i.imgur.com/IcqD4nU.png" alt="Profile banner" width="95%">
 
-<img src="[https://i.imgur.com/IcqD4nU.png](https://drive.google.com/file/d/1IvpySedNtjPOmLznqxwJ2fEQvZKhAKPz/view?usp=drive_link)" alt="Profile banner" width="95%">
+<img src="https://drive.google.com/file/d/1IvpySedNtjPOmLznqxwJ2fEQvZKhAKPz/view?usp=drive_link" alt="Profile banner 2" width="95%">
+
 
 
 
