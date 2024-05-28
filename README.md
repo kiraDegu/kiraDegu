@@ -65,7 +65,7 @@ Apart from coding, I am deeply interested in music. I enjoy exploring different 
 - [LinkedIn](https://www.linkedin.com/in/SemKoksharov)
 
 - 
-<img src="https://github.com/kiraDegu/Develhope_ex/blob/main/2.0s.gif?raw=true.gif" alt="Profile banner" width="95%">
+<img src="https://github.com/kiraDegu/kiraDegu/blob/main/TypengBlackGif.gif" alt="Profile banner" width="95%">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiraDegu&show_icons=true&theme=graywhite )](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiraDegu&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
