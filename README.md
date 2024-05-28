@@ -1,4 +1,4 @@
-<img src="https://github.com/kiraDegu/kiraDegu/blob/main/Intestazione.png" alt="Profile banner" width="95%">
+<img src="https://github.com/kiraDegu/kiraDegu/blob/main/Intestazione_contatti.png" alt="Profile banner" width="95%">
 
 $~$
 $~~~~~~~~~~~$
