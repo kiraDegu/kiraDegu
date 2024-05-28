@@ -1,22 +1,11 @@
-<img src="https://i.imgur.com/IcqD4nU.png" alt="Profile banner" width="95%">
-
-<img src="https://imgur.com/nwJ0HAB.png" alt="Profile banner 2" width="95%">
-
-<img src="https://imgur.com/yyFRwPZ.gif" alt="Profile banner 3" width="95%">
 
 
+<img src="https://imgur.com/nGFTd5x.png" alt="Profile banner" width="95%">
+
+<img src="https://imgur.com/ghyKtpU.png" alt="Profile piè di pagina" width="95%">
 
 
-## Hi, I'm Semen Koksharov! 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=SemKoksharov&color=blue)
-
-Junior Backend Developer passionate about technology and music. Currently working on a backend project for a music streaming service.
-
-
-
-
-## 🛠️ Technical Skills
+## Technical Skills
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 <img src="https://img.shields.io/badge/-MySQL-%230078D6?style=for-the-badge&logo=mysql&logoColor=white">
@@ -35,32 +24,11 @@ Junior Backend Developer passionate about technology and music. Currently workin
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Agile](https://img.shields.io/badge/Agile-%2300f.svg?style=for-the-badge)
 
-
 ---
 
 ## 🌟 About Me
 
 I have always been passionate about computers! I successfully completed an intensive course as a Java back-end developer, where I gained a solid foundation and feel confident in my skills. I am proficient in working with the Spring framework and familiar with application architecture, including REST APIs. I am committed to continuous improvement, attending classes and updating my knowledge regularly. Although I am still refining my teamwork skills, I am motivated to grow in this area and become a collaborative and effective team member.
-
-## 📈 GitHub Stats
-
-
-
-
-![Commit Stats](https://github-readme-streak-stats.herokuapp.com/?user=SemKoksharov&theme=radical&hide_border=true&ring=DD2727&fire=DD2727)
-![Contribution Stats](https://github-readme-stats.vercel.app/api?username=SemKoksharov&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-
-
-## 🚀 Current Project
-
-### **Music Streaming Backend**
-
-I am currently working on an educational project to develop the backend for a music streaming service. This project focuses on:
-- User authentication and authorization
-- Music catalog management
-- Playlist creation and management
-- RESTful API development with Spring Boot
-- Integration with databases (SQL and NoSQL)
 
 ## 🎸 Personal Interests
 
