@@ -1,5 +1,5 @@
 
-<img src="https://github.com/kiraDegu/kiraDegu/blob/main/Intestazione.png" alt="Profile banner" width="95%">
+
 
 <picture>
   <source
@@ -12,6 +12,8 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+
+<img src="https://github.com/kiraDegu/kiraDegu/blob/main/Intestazione.png" alt="Profile banner" width="95%">
 
 <!---  
 ## Technical Skills
