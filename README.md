@@ -1,8 +1,17 @@
 
+<img src="https://github.com/kiraDegu/kiraDegu/blob/main/Intestazione.png" alt="Profile banner" width="95%">
 
-<img src="https://imgur.com/nGFTd5x.png" alt="Profile banner" width="95%">
-<img src="https://github.com/kiraDegu/kiraDegu/blob/main/TypengLightBlackGif.gif" alt="Profile banner" width="95%">
-<img src="https://github.com/kiraDegu/kiraDegu/blob/main/TypengLightBlackGif_canva.gif" alt="Profile banner" width="95%">
+<picture>
+  <source
+    srcset="https://github.com/kiraDegu/kiraDegu/blob/main/BannerTypingGif_LightGray.gif"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github.com/kiraDegu/kiraDegu/blob/main/BannerTypingGif_White.gif"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ## Technical Skills
 
@@ -63,8 +72,7 @@ Apart from coding, I am deeply interested in music. I enjoy exploring different 
 - [GitHub](https://github.com/SemKoksharov)
 - [LinkedIn](https://www.linkedin.com/in/SemKoksharov)
 
-
-<img src="https://imgur.com/ghyKtpU.png" alt="Profile piè di pagina" width="95%">
+<img src="https://github.com/kiraDegu/kiraDegu/blob/main/PieDiPagina.png" alt="Profile banner" width="95%">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiraDegu&show_icons=true&theme=graywhite )](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiraDegu&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
