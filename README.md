@@ -1,6 +1,8 @@
 
 <img src="https://github.com/kiraDegu/kiraDegu/blob/main/Intestazione.png" alt="Profile banner" width="95%">
 
+I envision the future as a perpetual journey of refinement. My aspiration is to excel in the realms of development and innovation, actively engaging in this inexorable march forward.
+
 <picture>
   <source
     srcset="https://github.com/kiraDegu/kiraDegu/blob/main/BannerTypingGif_LightGray.gif"
@@ -79,8 +81,5 @@ Apart from coding, I am deeply interested in music. I enjoy exploring different 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiraDegu&show_icons=true&theme=swift )](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiraDegu&show_icons=true&theme=apprentice )](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://imgur.com/nGFTd5x.png" alt="Profile banner" width="95%">
-
-<img src="https://imgur.com/ghyKtpU.png" alt="Profile piè di pagina" width="95%">
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate.
