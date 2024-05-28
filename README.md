@@ -1,8 +1,8 @@
 
 
 <img src="https://imgur.com/nGFTd5x.png" alt="Profile banner" width="95%">
-<img src="https://github.com/kiraDegu/kiraDegu/blob/main/TypengLightBlackVideo.mp4" alt="Profile banner" width="95%">
-
+<img src="https://github.com/kiraDegu/kiraDegu/blob/main/TypengLightBlackGif.gif" alt="Profile banner" width="95%">
+<img src="https://github.com/kiraDegu/kiraDegu/blob/main/TypengLightBlackGif_canva.gif" alt="Profile banner" width="95%">
 
 ## Technical Skills
 
