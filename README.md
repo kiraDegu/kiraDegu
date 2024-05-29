@@ -68,7 +68,7 @@
 --->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiraDegu&show_icons=true&theme=transparent&title_color=DDDDDD&text_color=DDDDDD&icon_color=DDDDDD&border_color=00000000&br_color=DDDDDD&border_radius=2.5" alt="KraDegu's GitHub stats" alt="stats" width="75%">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiraDegu&show_icons=true&theme=transparent&title_color=285F38&text_color=DDDDDD&icon_color=285F38&border_color=00000000&br_color=DDDDDD&border_radius=2.5" alt="KraDegu's GitHub stats" alt="stats" width="65%">
 </div>
 
 <!---  
