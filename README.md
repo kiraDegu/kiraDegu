@@ -7,20 +7,7 @@ https://github.com/anuraghazra/github-readme-stats
 <img src="https://github.com/kiraDegu/kiraDegu/blob/main/Intestazione_contatti.png" alt="Profile banner" width="100%">
 
 
-</br>
-</br>
 
-<picture>
-  <source
-    srcset="https://github.com/kiraDegu/kiraDegu/blob/main/BannerTypingGif_LightGray.gif"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github.com/kiraDegu/kiraDegu/blob/main/BannerTypingGif_White.gif"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
 
 
 
@@ -67,6 +54,21 @@ https://github.com/anuraghazra/github-readme-stats
 - Strong problem-solving abilities
 - High stress resistance
 
+
+</br>
+</br>
+
+<picture>
+  <source
+    srcset="https://github.com/kiraDegu/kiraDegu/blob/main/BannerTypingGif_LightGray.gif"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github.com/kiraDegu/kiraDegu/blob/main/BannerTypingGif_White.gif"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 
 <!--- 
