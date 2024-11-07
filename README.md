@@ -33,17 +33,18 @@ https://github.com/anuraghazra/github-readme-stats
 
 ##  Hard Skills
 
-- Python (Numpy, Pandas, Matplotlib, OOP, Django, Deep e Machine Learning)
-- Database, MySQL, Postgree, MongoDB, Redis
+- **Python** (Numpy, Pandas, Matplotlib, OOP, Django, Deep e Machine Learning)
+- **Database**: MySQL, Postgree, MongoDB, Redis
 - REST API
-- Java, SpringBoot
-- Javascript, TypeScript, Node.js, Express.js e NestJS
+- **Java**, SpringBoot
+- **Javascript**, TypeScript, Node.js, Express.js e NestJS
+- **C**/**C++**
 - Flutter e Dart
-- GIT, GitHub
+- **GIT**, GitHub
 - Latex, Suite Microsoft Office
 - html e css fundamentals
 - solid Scientific knowledge in field of mathematics, physics, chemestry and astronomy
-- Teamwork, Agile methodology and project management
+- Teamwork in Multicultural Environments, Agile Methodology (Scrum), and Project Management
 
 
 ##  Soft Skills
